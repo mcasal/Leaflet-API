@@ -1,0 +1,21 @@
+{
+  "name": "map-restaurants",
+  "version": "1.0.0",
+  "description": "Leaflet API REST",
+  "main": "index.html",
+  "scripts": {
+    "build-css": "tailwindcss build views/style.css -o views/api.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcasal/Leaflet-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcasal/Leaflet-API/issues"
+  },
+  "homepage": "https://github.com/mcasal/Leaflet-API#readme",
+  "dependencies": {}
+}
